@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+
+.main-div{
+    text-align: center;
+    justify-content: center;
+    background-color: lightcoral;
+    width: 1200px;
+    height: 200px;
+    margin-left: 150px;
+    padding-top: 30px;
+}
